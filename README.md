@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page para exposição da série The Last of Us.
 
-- [Acesse o projeto finalizado, online](https://otavio095.github.io/Projeto_DevLnks/)
+- [Acesse o projeto finalizado, online](https://otavio095.github.io/TheLastOfUs_LandingPage/)
 
 
 ---
